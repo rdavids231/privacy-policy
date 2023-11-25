@@ -1,4 +1,3 @@
-# privacy-policy
 ## Privacy Policy
 
 **Information Collection and Use**
